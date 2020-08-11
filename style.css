@@ -1,0 +1,31 @@
+body{
+    background-color: slategrey;
+
+}
+section{
+    border:solid 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 3px;
+}
+#industria{
+    width: 90px;
+    height: 90px;
+
+}
+#mão{
+    width: 90px;
+    height: 90px;
+
+}
+#capa{
+    background: url(img/cidade.jpg);
+    text-align: center;
+    color: wheat;
+    text-shadow: black 2px -2px;
+    background-repeat: no-repeat;
+    background-size: cover; /*cobrir todo o espaço do bloco*/
+}
+
+
+
+
